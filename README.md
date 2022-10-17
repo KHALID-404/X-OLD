@@ -66,7 +66,8 @@ CONTACT WITH <a href="https://github.com/KHALID-CYBER-404"><b>KHALID SHAIFULLAH<
  - `git clone https://github.com/KHALID-CYBER-404/X-OLD`
  - `cd X-OLD`
  - `python X-OLD.py`
-
+ 
+ ![20200808_160757](https://github.com/KHALID-CYBER-404/X-OLD/blob/main/Screenshot_20221017-075538_Termux.jpg)
 
 #### MY SOCIAL MEDIA
 
